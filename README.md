@@ -6,11 +6,9 @@ This repository is a comprehensive resource on graph representation learning, sp
 
 - [Introduction](#introduction)
 - [Lectures](#lectures)
-  - [Knowledge Graph Basics](#L1_Knowledge_Graph_Basic.ipynb)
+  - [Knowledge Graph Basics](https://github.com/MilenaTrajanoska/graph-representation-web-based-systems/blob/main/L1_Knowledge_Graph_Basics.ipynb)
 - [Setup](#setup)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
